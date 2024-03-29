@@ -1,6 +1,6 @@
-# Promptople - AI Image generator
+# Promptople - AI Image generator utilising OpenAI's api
 
-Built with the Reactjs, Nodejs, MongoDB, TypeScript, Javascript & Tailwind
+Built with the Reactjs, Nodejs, MongoDB, Javascript & Tailwind
 
 ![Project Image](https://github.com/despot-codA/ai-image-generator/blob/main/client/public/Screenshot.png)
 
